@@ -133,7 +133,8 @@ p {
 
 .built {
     text-align: left;
-    margin-right: 2%;
+    margin-right: 3%;
+    margin-left: 10%;
 }
 
 .re-button {
@@ -142,6 +143,7 @@ p {
     background-image: linear-gradient(tomato, tomato);
     border-radius: 8px;
     padding: 5px 20px;
+    margin-left: 10%;
 }
 
 h2 {
