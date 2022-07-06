@@ -155,3 +155,47 @@ h2 {
     margin-left: 28%;
     margin-right: 20%;
 }
+
+.design-button {
+    background-image: linear-gradient(rgb(219, 153, 141), rgb(219, 172, 163));
+    display: flex;
+    margin-left: 35%;
+    margin-right: 25%;
+    padding: 30px;
+    padding-top: 4%;
+    padding-left: 4%;
+}
+
+#construct {
+    background-color: rgb(219, 213, 213);
+    margin-left: 42%;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10%;
+}
+
+#re-construct {
+    background-color: tomato;
+    border-radius: 5%;
+    margin-left: 100%;
+    padding: 10px;
+    border: none;
+}
+
+footer {
+    background-color: rgb(31, 29, 29);
+    margin-top: 5%;
+    padding: 8px;
+}
+
+.end {
+    margin-top: 20%;
+    text-align: center;
+    font-style: italic;
+    color: coral;
+    margin: 0%;
+}
+
+.finis {
+    color: whitesmoke;
+}
